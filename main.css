@@ -1,0 +1,49 @@
+.navbar-dark {
+  background-color: #221f20 !important;
+  color: #6f6957;
+}
+.learn {
+  color: #edebe5;
+  font-family: "Roboto Slab";
+  font-weight: 300;
+}
+.questions {
+  color: #edebe5;
+  font-family: "Roboto Slab";
+  font-weight: 300;
+}
+.instructors {
+  color: #edebe5;
+  font-family: "Roboto Slab";
+  font-weight: 300;
+}
+.candidats {
+  color: #edebe5;
+  font-family: "Roboto Slab";
+  font-weight: 300;
+}
+.batir {
+  color: #edebe5;
+  font-family: "Playfair Display";
+  font-weight: 400;
+  font-size: 4.2rem;
+  line-height: 4rem;
+}
+.environnement {
+  color: #edebe5;
+  font-family: "Montserrat", Sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+.btn {
+  color: #edebe5;
+  font-family: "Roboto Slab";
+  font-weight: 300;
+}
+.bg-image {
+  background-image: url("img/tiz1.jpg");
+  background-size: 100% 100%;
+}
+.bi {
+  color: #ffd700;
+}

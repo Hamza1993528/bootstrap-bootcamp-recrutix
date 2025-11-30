@@ -1,0 +1,47 @@
+
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+body::before {
+  display: block;
+  content: "";
+  height: 70px;
+}
+.photos1 {
+  background-image: url("/img/react.svg");
+  background-size: cover;
+} 
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  border-radius: 0px;
+  height:110%;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+.navbar {
+  background-color: #221f20;
+  font-size: 20px;
+  border-radius: 0px;
+}
+.nav-item {
+  font-size: 15px;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/variables";
+
+
